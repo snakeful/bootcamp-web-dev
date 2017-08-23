@@ -20,5 +20,10 @@ Se estara actualizando un [documento](https://github.com/snakeful/bootcamp-web-d
 
 # Objetivo
 ```
-Aprdender a usar las tecnologias de desarrollo de clientes web.
+Aprdender a usar las tecnologías de desarrollo de clientes web.
+```
+
+# Reglas
+```
+Empezar el desarrollo el 01/09/2017, no antes por favor.
 ```
