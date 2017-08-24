@@ -1,24 +1,26 @@
-# Requerimientos
-Desarrollar una aplicacion que maneje proyectos **[SCRUM](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software))**.
+# **Requerimientos**
+Desarrollar una aplicación que maneje proyectos **[SCRUM](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software))**.
 
-La aplicacion debe de poder guardar un proyecto que contenga un **Product Backlog** *(historias)*, **Sprints**, **Sprint Backlog** *(**Tareas**)*, **Estados de **Tareas****, **Origen de Tarea**.
+La aplicación debe de poder guardar un proyecto que contenga un **Product Backlog** *(historias)*, **Sprints**, **Sprint Backlog** *(**Tareas**)*, **Estados** de **Tareas**, **Origen de Tarea**.
 
-Tambien debera llevar un registro de usuarios y el rol de usuario para los proyectos **SCRUM**.
+También deberá llevar un registro de usuarios y el rol de usuario para los proyectos **SCRUM**.
 
-# Definicion
+# **Definición**
 
-El **Product Backlog** es el conjunto de historias que tendra el proyecto, las historias deben de tener las siguientes caracteristicas:
+El **Product Backlog** es el conjunto de historias que tendrá el proyecto, las historias deben de tener las siguientes características:
 
 * Nombre
-* Descripcion
+* Descripción
 * Prioridad
 * Estado
-* Arreglo de **Tareas** de Exito
+* Arreglo de **Tareas** de Finalización
 
-La **Tarea** es la actividad especifica que se desarrolla dentro de un **Sprint**. La **Tarea** debe tener las siguientes caracteristicas:
+Las **Prioridades** de las historias se definirán de 0 a 10 puntos, tomando en cuenta 0 como la prioridad más importante y 10 la menos importante.
+
+La **Tarea** es la actividad específica que se desarrolla dentro de un **Sprint**. La **Tarea** debe tener las siguientes características:
 
 * Nombre
-* Descripcion
+* Descripción
 * Fecha
 * **Tarea** Origen
 * Estado
@@ -26,61 +28,100 @@ La **Tarea** es la actividad especifica que se desarrolla dentro de un **Sprint*
 * Origen **Tarea**
 * Puntos
 * Puntos Ejecutados
-* **Tarea** de Exito
+* **Tarea** de Finalización
 
-El **Estado de la Tarea** se divide en 4 estados:
+Los **Estados de la Tarea** se dividen en 4:
 
 * **Por Hacer** *(To Do)*
-  * Son todas las **Tareas** que se encuentran definidas pero no estan en ejecucion y estas pueden pasar al estado **En Progreso**.
+  * Son todas las **Tareas** que se encuentran definidas pero no están en ejecución y estas pueden pasar al estado **En Progreso**.
 * **En Progreso** *(In Progress)*
-  * Son todas las **Tareas** que se estan ejecuntado despues del SCRUM diario, y estas pueden pasar a estado **Por Hacer**, **Pruebas** o **Treminado**.
+  * Son todas las **Tareas** que se están ejecutando después del SCRUM diario, y estas pueden pasar a estado **Por Hacer**, **Pruebas** ó **Terminado**.
 * **Pruebas** *(Testing)*
-  * Son las **Tareas** que se estan probando, estas solo pueden pasar a solo a estado **Terminado**.
+  * Son las **Tareas** que se están probando, estas solo pueden pasar a solo a estado **Terminado**.
 * **Terminado** *(Done)*
   * Son las **Tareas** que se terminaron, estas **Tareas** ya no pueden pasar a otro estado.
 
-La **Tarea** origen es la **Tarea** que origino la nueva **Tarea**, esto pasa cuando una **Tarea** es necesario redefinirla por alguna razon o circunstancia en el proyecto.
+La **Tarea** origen es la que se origino la nueva **Tarea**, esto pasa cuando la **Tarea** es necesario redefinirla por alguna razón o circunstancia en el proyecto.
 
 El origen de la **Tarea** se puede clasificar de las siguiente manera:
 
 * **Nueva**
-  * Clasificacion cuando se crea una nueva **Tarea** nates de empezar el Sprint.
+  * Clasificación cuando se crea una nueva **Tarea** antes de empezar el **Sprint**.
 * **Mal Definida**
-  * Clasificacion cuando no se definio correctamente la **Tarea** y necesita dividirse en **Tareas** mas especificas.
+  * Clasificación cuando no se definió correctamente la **Tarea** y necesita dividirse en **Tareas** mas específicas.
 * **Cambio Proceso**
-  * Clasificacion cuando cambiaron los requeriemintos del proyecto y la **Tarea** debe dividirse o convertirse en otra **Tarea** mas especifica.
+  * Clasificación cuando cambiaron los requerimientos del proyecto y la **Tarea** debe dividirse o convertirse en otra **Tarea** más específica.
 * **Nuevo Requerimiento**
-  * Clasificacion cuando es necesario generar una nueva **Tarea** debido a **Tareas** no especificadas antes del inicio del **Sprint**.
+  * Clasificación cuando es necesario generar una nueva **Tarea** debido a **Tareas** no especificadas antes del inicio del **Sprint**.
 
-El **Sprint** es la actividad en un intervalo de tiempo donde se hace el ejecuta un proyecto, desglosando las historias en **Tareas** especificas a ejecutar. El **Sprint** debe de tener las siguientes caracteristicas:
+El **Sprint** es la actividad que se ejecutarán las historias en un intervalo de tiempo, desglosando las historias en **Tareas** específicas a ejecutar. El **Sprint** debe de tener las siguientes características:
 
 * Fecha Inicio **Sprint**
 * Fecha Final **Sprint**
 * Historias asociadas
-  * **Tareas** especificas por historia
+  * **Tareas** específicas por historia
 * Lista de **SCRUM** diario
   * Fecha
   * Hora Inicio
   * Hora Fin
   * Observaciones
 
-Roles
+# **Burndown Chart**
+* Es una gráfica que se muestra públicamente donde se miden los puntos asociados a cada **Tarea** y cuantos han sido ejecutados durante la duración del **Sprint**.
+* Ejemplo de una gráfica [Burndown Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/EjemploDeDiagramaBurnDown.svg/1024px-EjemploDeDiagramaBurnDown.svg.png)
+
+# **Roles**
 
 Los roles para los proyectos **SCRUM** son los siguientes:
 
 * Product Owner
 * Scrum Master
-* Scrum team
+* Scrum Team
 
 Existen otros roles que son actores auxiliares en un proyecto **SCRUM** y son los siguientes:
 
 * Skateholders
 * Administradores
 
-# Funcionalidades
+# **Funcionalidades**
 
-Las funcionalidad del proyecto se describe a continuacion:
+Las funcionalidad del proyecto se describen a continuación:
 
-## Creacion de proyectos **SCRUM**
+## **Proyectos SCRUM**
 * [CRUD](https://es.wikipedia.org/wiki/CRUD) de proyectos **SCRUM**
-## Restricciones
+### **Restricciones**
+* No se pueden borrar proyectos que tengan historias o usuarios asignados.
+
+## **Historias**
+* CRUD de historias por proyecto
+* Las **Tareas** de Finalización es un listado de **Tareas** las cuales se generarán automáticamente al iniciar el **Sprint**, y determinarán si la historia ha sido finalizada por completo.
+
+## **Estados de la Tarea**
+* Definición de los 4 estados de tareas que se asignaran a cada tarea generada:
+  * **Por Hacer** *(To Do)*
+  * **En Progreso** *(In Progress)*
+  * **Pruebas** *(Testing)*
+  * **Terminado** *(Done)*
+
+## **Origen de Tareas**
+* CRUD de Origen de Tareas adicionales
+
+### **Restricciones**
+* No se pueden borrar los origenes de tarea ya descritos en el proyecto.
+
+## **Sprint**
+* CRUD de **Sprint** para la ejecución del proyecto.
+* Inicio del **Sprint Backlog**.
+  * Asociar historias que no esten asociadas a un **Sprint**.
+  * Crear tareas para la ejecución de la historia.
+* Dar inicio al **Sprint**.
+* Las **Tareas** pueden generar nuevas **Tareas**, a este proceso se le asignarán a las nuevas **Tareas** creadas la **Tarea** con la que se creó esta nueva **Tarea** o varias **Tareas** y deberán tener un **Origen de Tarea** diferente a **Nueva** (Tomar en cuenta si la **Tarea** es una **Tarea** de Finalización, estas tambien hay que asignarles que son **Tareas** de Finalización).
+* Para determinar que un **Sprint** ha sido terminado, todas las **Tareas** de Finalización deben estar completadas.
+* Las **Tareas** de Finalización deben ser las últimas en pasar a estado **Terminado**.
+
+### **Restricciones**
+* Después de iniciado el **Sprint**, todas las nuevas tareas que no se hayan definido se crearán con el **Origen de Tarea** *Nuevo Requerimiento*.
+* Debe haber al menos una **Tarea** de Finalización que no este en estado **Terminado** para poder actualizar todas las **Tareas** a **Terminado** que no sea de finalización.
+
+## **Burndown Chart**
+* Se debe mostrar una gráfica ó diagrama donde se muestre los puntos ejecutados contra los puntos ejecutados por día de todo el **Sprint** y por Scrum Team.

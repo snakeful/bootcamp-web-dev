@@ -1,3 +1,4 @@
 # Integrantes
-* José Luis Castro [©](https://github.com/joseluiscastro23/scrum-ng)
-* Carlos Ful [©](https://github.com/snakeful/scrum-ng)
+[logo-project]: https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon24.png "Proyecto"
+* José Luis Castro [![alt text][logo-project]](https://github.com/joseluiscastro23/scrum-ng)
+* Carlos Ful [![alt text][logo-project]](https://github.com/snakeful/scrum-ng)
