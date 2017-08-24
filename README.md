@@ -6,7 +6,7 @@ Tecnologias Proyecto Web
 ```
 * Angular 4 +
 * Bootstrap 4
-* Node, Java, PHP,  (Servicios REST, no se puede usar otro tipo de arquitectura en los servicios)
+* Node, Java, PHP (Servicios REST, no se puede usar otro tipo de arquitectura en los servicios, pueden ser servicios monoliticos o microservicios).
 * Base de datos
   * Cualquier base de datos (Se recomienda RDBMS por la integridad referencial de los datos).
 ```
