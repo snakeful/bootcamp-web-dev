@@ -1,6 +1,6 @@
 # Integrantes
 [logo-project]: https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon24.png "Proyecto"
-Hansel Vielman [![alt text][logo-project]](https://github.com/avielman/IU-SCRUM)
+* Hansel Vielman [![alt text][logo-project]](https://github.com/avielman/IU-SCRUM)
 * Wilson Torres [![alt text][logo-project]](https://github.com/xyz1234561/ScrumProject)
 * Jean Carlo Solis [![alt text][logo-project]](https://github.com/jsolisu/scrum-a4b4)
 * Andres Reyes [![alt text][logo-project]](https://github.com/areyesoleon/SCRUM-)
