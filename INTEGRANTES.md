@@ -1,5 +1,6 @@
 # Integrantes
 [logo-project]: https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon24.png "Proyecto"
+* Victor Cifuentes [![alt text][logo-project]](https://github.com/Creyent/ScrumProjects)
 * Hansel Vielman [![alt text][logo-project]](https://github.com/avielman/IU-SCRUM)
 * Wilson Torres [![alt text][logo-project]](https://github.com/xyz1234561/ScrumProject)
 * Jean Carlo Solis [![alt text][logo-project]](https://github.com/jsolisu/scrum-a4b4)
