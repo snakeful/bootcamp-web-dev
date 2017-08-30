@@ -17,6 +17,9 @@
 * [MariaDB](https://mariadb.org/)
 * [Cassandra](http://cassandra.apache.org/)
 * [Docker](https://www.docker.com/)
+* [Knexjs](http://knexjs.org/)
+* [Lodash](https://lodash.com/) Utilitario de JavaScript
 
 # **Material Videos**
 * Playlist tutorial [Typescript](https://www.youtube.com/playlist?list=PLBdkl5-ytBTw28OJMumO-iUxYnShbhqwO)
+* Playlist tutorial 2 [TypeScript](https://www.youtube.com/playlist?list=PLCKuOXG0bPi2J-C0WPRZdHTG6pareIvV2)

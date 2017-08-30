@@ -21,6 +21,10 @@ Aprender usar el [SCM](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_configuraci
 * Empezar el desarrollo el 01/09/2017, no antes por favor.
 * Nos juntaremos en un lugar específico para discutir problemas al desarrollar con las tecnologías del proyecto.
 * No se puede copiar código de otros proyectos que salgan de este bootcamp, en caso se detecte código copiado de otros proyectos sin permiso del autor, se le sacará del bootcamp y no se le tomará en cuenta para proyectos futuros (Si es código es copiado, hacer referencia al autor con conocimeinto y autorización del autor).
+* Pueden empezar hacer el análisis y las pruebas necesarias con las herramientas que necesiten usar, nos juntaremos el dia 01/09/2017 para dar inicio oficialmente al **Bootcamp Web Development**.
 
 # **Sugenercias**
 Si se desean hacer sugerencias en mejorar los requerimientos del proyecto, deben hacerlo a través de un [Pull Request](https://help.github.com/articles/about-pull-requests/).
+
+# **Dudas o Comentarios**
+Cualquier duda o comentario me pueden enviar un correo electrónico a fulblind@gmail.com
