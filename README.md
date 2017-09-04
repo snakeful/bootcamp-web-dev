@@ -14,13 +14,13 @@ Cada participante tiene que tener una cuenta github y enviar el link del proyect
 Se estará actualizando un [documento](https://github.com/snakeful/bootcamp-web-dev/blob/master/INTEGRANTES.md) con los integrantes y sus proyectos.
 
 # **Objetivo**
-Aprender a usar las tecnologías de desarrollo de clientes web y ayudar a los participantes a mejorar sus conocimeintos.
+Aprender a usar las tecnologías de desarrollo de clientes web y ayudar a los participantes a mejorar sus conocimientos.
 Aprender usar el [SCM](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_configuraci%C3%B3n_de_software) [GIT](https://git-scm.com/) y su plataforma [Github](https://github.com/).
 
 # **Reglas**
 * Empezar el desarrollo el 01/09/2017, no antes por favor.
 * Nos juntaremos en un lugar específico para discutir problemas al desarrollar con las tecnologías del proyecto.
-* No se puede copiar código de otros proyectos que salgan de este bootcamp, en caso se detecte código copiado de otros proyectos sin permiso del autor, se le sacará del bootcamp y no se le tomará en cuenta para proyectos futuros (Si es código es copiado, hacer referencia al autor con conocimeinto y autorización del autor).
+* No se puede copiar código de otros proyectos que salgan de este bootcamp, en caso se detecte código copiado de otros proyectos sin permiso del autor, se le sacará del bootcamp y no se le tomará en cuenta para proyectos futuros (Si es código es copiado, hacer referencia al autor con conocimiento y autorización del autor).
 * Pueden empezar hacer el análisis y las pruebas necesarias con las herramientas que necesiten usar, nos juntaremos el dia 01/09/2017 para dar inicio oficialmente al **Bootcamp Web Development**.
 
 # **Sugenercias**
