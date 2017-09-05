@@ -23,3 +23,6 @@
 # **Material Videos**
 * Playlist tutorial [Typescript](https://www.youtube.com/playlist?list=PLBdkl5-ytBTw28OJMumO-iUxYnShbhqwO)
 * Playlist tutorial 2 [TypeScript](https://www.youtube.com/playlist?list=PLCKuOXG0bPi2J-C0WPRZdHTG6pareIvV2)
+
+# **Material Scrum**
+* [La Guía de Scrum](http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-Spanish.pdf#zoom=100) Ultima versión de la guía de Scrum: Las reglas del juego. (Julio 2016)
