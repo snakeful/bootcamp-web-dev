@@ -1,3 +1,7 @@
+[scrumFramework]: ./img/scrumFramework.png "Scrum Framework"
+
+[![alt text][scrumFramework]](https://www.scrum.org/resources/scrum-framework-poster)
+
 # **Requerimientos**
 Desarrollar una aplicación que maneje proyectos **[SCRUM](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software))**.
 
