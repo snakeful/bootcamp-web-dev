@@ -2,6 +2,12 @@
 * [Nodejs](https://nodejs.org/es/) No hay restricciones de versiones.
 * [Angular CLI](https://cli.angular.io/) Para la generación de proyectos en Angular 4
 * [Bootstrap 4](https://stackoverflow.com/questions/37649164/how-to-add-bootstrap-to-an-angular-cli-project) Link para agregar [Bootstrap 4](https://getbootstrap.com/) Versión Beta
+* Para la instalación de Bootstrap 4 en el proyecto instalar los siguientes paquetes: 
+```npm
+npm install jquery --save
+npm install popper.js --save
+```
+  * Despues de instalado, verificar este [commit](https://github.com/jsolisu/scrum-a4b4/commit/a2f525fdd7ed531f6ec08fb13b0cba8f3c48a2a4) para ver donde se agregan los archivos necesarios al projecto generado con [Angular CLI](https://cli.angular.io/)
 * [TypeScript](https://www.typescriptlang.org/)
 
 # **Material Para Desarrollo Proyecto Adicional**
