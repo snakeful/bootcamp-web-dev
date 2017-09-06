@@ -1,5 +1,6 @@
 # Integrantes
 [logo-project]: https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon24.png "Proyecto"
+* Kevin Cuyan [![alt text][logo-project]](https://github.com/kcuyan/ProyectoScrum)
 * Douglas Gallo [![alt text][logo-project]](https://github.com/douglasgb/word-dg)
 * Victor Cifuentes [![alt text][logo-project]](https://github.com/Creyent/ScrumProjects)
 * Hansel Vielman [![alt text][logo-project]](https://github.com/avielman/IU-SCRUM)
