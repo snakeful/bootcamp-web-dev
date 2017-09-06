@@ -2,7 +2,7 @@
 * [Nodejs](https://nodejs.org/es/) No hay restricciones de versiones.
 * [Angular CLI](https://cli.angular.io/) Para la generación de proyectos en Angular 4
 * [Bootstrap 4](https://stackoverflow.com/questions/37649164/how-to-add-bootstrap-to-an-angular-cli-project) Link para agregar [Bootstrap 4](https://getbootstrap.com/) Versión Beta
-* Para la instalación de Bootstrap 4 en el proyecto instalar los siguientes paquetes: 
+* Para la instalación de Bootstrap 4 en el proyecto instalar los siguientes paquetes:
 ```npm
 npm install jquery --save
 npm install popper.js --save
@@ -27,8 +27,9 @@ npm install popper.js --save
 * [Lodash](https://lodash.com/) Utilitario de JavaScript
 
 # **Material Videos**
-* Playlist tutorial [Typescript](https://www.youtube.com/playlist?list=PLBdkl5-ytBTw28OJMumO-iUxYnShbhqwO)
-* Playlist tutorial 2 [TypeScript](https://www.youtube.com/playlist?list=PLCKuOXG0bPi2J-C0WPRZdHTG6pareIvV2)
+* [TypeScript](https://www.youtube.com/playlist?list=PLBdkl5-ytBTw28OJMumO-iUxYnShbhqwO) Tutorial #1
+* [TypeScript](https://www.youtube.com/playlist?list=PLCKuOXG0bPi2J-C0WPRZdHTG6pareIvV2) Tutorial #2
+* [Angular](https://www.youtube.com/watch?v=Opw89_JqzgA&index=2&list=PLYPjmy5IVxT8-9vxaY4BHRB9wlzUgPzD1)
 
 # **Material Scrum**
 * [La Guía de Scrum](http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-Spanish.pdf#zoom=100) Ultima versión de la guía de Scrum: Las reglas del juego. (Julio 2016)
