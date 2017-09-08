@@ -9,6 +9,7 @@ npm install popper.js --save
 ```
   * Despues de instalado, verificar este [commit](https://github.com/jsolisu/scrum-a4b4/commit/a2f525fdd7ed531f6ec08fb13b0cba8f3c48a2a4) para ver donde se agregan los archivos necesarios al projecto generado con [Angular CLI](https://cli.angular.io/)
 * [TypeScript](https://www.typescriptlang.org/)
+* [Drag & Drop](https://github.com/ObaidUrRehman/ng2-drag-drop)
 
 # **Material Para Desarrollo Proyecto Adicional**
 * [Expressjs](https://expressjs.com/) Framework para servicios web o páginas estáticas.
