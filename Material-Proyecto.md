@@ -26,6 +26,7 @@ npm install popper.js --save
 * [Docker](https://www.docker.com/)
 * [Knexjs](http://knexjs.org/)
 * [Lodash](https://lodash.com/) Utilitario de JavaScript
+* [HeidiSQL](https://www.heidisql.com) Herramienta para trabajar bases de datos MySQL/MariaDB/Microsoft SQL/PostgreSQL
 
 # **Material Videos**
 * [TypeScript](https://www.youtube.com/playlist?list=PLBdkl5-ytBTw28OJMumO-iUxYnShbhqwO) Tutorial #1
