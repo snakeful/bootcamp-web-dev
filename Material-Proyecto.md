@@ -32,6 +32,7 @@ npm install popper.js --save
 * [TypeScript](https://www.youtube.com/playlist?list=PLBdkl5-ytBTw28OJMumO-iUxYnShbhqwO) Tutorial #1
 * [TypeScript](https://www.youtube.com/playlist?list=PLCKuOXG0bPi2J-C0WPRZdHTG6pareIvV2) Tutorial #2
 * [Angular](https://www.youtube.com/watch?v=Opw89_JqzgA&index=2&list=PLYPjmy5IVxT8-9vxaY4BHRB9wlzUgPzD1)
+* [CRUD API con Node.js/Express/JSON/Knex/PostreSQL](https://www.youtube.com/watch?v=xFsaRVNLtxI&list=PLM_i0obccy3uwR6ZYa7QE03xDRAqs4Aso)
 
 # **Material Scrum**
 * [La Guía de Scrum](http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-Spanish.pdf#zoom=100) Ultima versión de la guía de Scrum: Las reglas del juego. (Julio 2016)
