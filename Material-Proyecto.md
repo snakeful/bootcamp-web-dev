@@ -1,7 +1,7 @@
 # **Material Para Desarrollo Proyecto**
 * [Nodejs](https://nodejs.org/es/) No hay restricciones de versiones.
-* [Angular CLI](https://cli.angular.io/) Para la generación de proyectos en Angular 4
-* [Bootstrap 4](https://stackoverflow.com/questions/37649164/how-to-add-bootstrap-to-an-angular-cli-project) Link para agregar [Bootstrap 4](https://getbootstrap.com/) Versión Beta
+* [Angular CLI](https://cli.angular.io/) Para la generación de proyectos en Angular 4.
+* [Bootstrap 4](https://stackoverflow.com/questions/37649164/how-to-add-bootstrap-to-an-angular-cli-project) Link para agregar [Bootstrap 4](https://getbootstrap.com/) Versión Beta.
 * Para la instalación de Bootstrap 4 en el proyecto instalar los siguientes paquetes:
 ```npm
 npm install jquery --save
@@ -17,8 +17,8 @@ npm install popper.js --save
 * [PHP](http://php.net/)
 * [WAMP](http://www.wampserver.com/en/) Ambiente para desarrollo de web Windows.
 * [LAMP](https://www.linux.com/learn/easy-lamp-server-installation) Ambiente para desarrollo de web Linux.
-* [PostgreSQL](https://www.postgresql.org/) RDBMS OpenSource
-* [MongoDB](https://www.mongodb.com/) DocumentDB OpenSource
+* [PostgreSQL](https://www.postgresql.org/) RDBMS OpenSource.
+* [MongoDB](https://www.mongodb.com/) DocumentDB OpenSource.
 * [MSSQL Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
 * [Oracle Express](http://www.oracle.com/technetwork/database/database-technologies/express-edition/overview/index.html)
 * [MySQL](https://www.mysql.com/)
@@ -26,8 +26,9 @@ npm install popper.js --save
 * [Cassandra](http://cassandra.apache.org/)
 * [Docker](https://www.docker.com/)
 * [Knexjs](http://knexjs.org/)
-* [Lodash](https://lodash.com/) Utilitario de JavaScript
-* [HeidiSQL](https://www.heidisql.com) Herramienta para trabajar bases de datos MySQL/MariaDB/Microsoft SQL/PostgreSQL
+* [Lodash](https://lodash.com/) Utilitario de JavaScript.
+* [HeidiSQL](https://www.heidisql.com) Herramienta para trabajar bases de datos MySQL/MariaDB/Microsoft SQL/PostgreSQL.
+* [GitHub Emoji Markup](https://gist.github.com/rxaviers/7360908) Lista completa de markdown GitHub Emoji markup.
 
 # **Material Videos**
 * [TypeScript](https://www.youtube.com/playlist?list=PLBdkl5-ytBTw28OJMumO-iUxYnShbhqwO) Tutorial #1
