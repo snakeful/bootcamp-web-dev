@@ -29,6 +29,7 @@ npm install popper.js --save
 * [Lodash](https://lodash.com/) Utilitario de JavaScript.
 * [HeidiSQL](https://www.heidisql.com) Herramienta para trabajar bases de datos MySQL/MariaDB/Microsoft SQL/PostgreSQL.
 * [GitHub Emoji Markup](https://gist.github.com/rxaviers/7360908) Lista completa de markdown GitHub Emoji markup.
+* [TypeScript](https://basarat.gitbooks.io/typescript/) TypeScript Deep Dive.
 
 # **Material Videos**
 * [TypeScript](https://www.youtube.com/playlist?list=PLBdkl5-ytBTw28OJMumO-iUxYnShbhqwO) Tutorial #1
